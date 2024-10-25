@@ -1,6 +1,6 @@
 # 국립현대미술관
 <div align="center">
- <img src="https://github.com/user-attachments/assets/d8672feb-e6a9-41a5-bffe-d9204103fcb4" width="500" height="500"/>
+ <img src="https://github.com/user-attachments/assets/f5457d3a-0aa7-4974-936b-eb15c67f9cc6" width="600" height="600"/>
 </div>
 
 - 국립현대미술관 메인 페이지를 리디자인한 프로젝트입니다.
