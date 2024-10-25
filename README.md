@@ -11,7 +11,7 @@
  - 2024.09.10 ~ 2024.09.27
 ## ⚙️ 사용 툴&기술
  - VSCode, HTML, CSS, JavaScript, Potoshop
-## ✈️ 작업물 바로가기
+## 🛫 작업물 바로가기
  - https://kim28701.mycafe24.com/mmca/mmca_index.html
 ## 📝 작업 내용
  - 슬라이드 재생, 정지 기능 추가하여 편리성 향상
